@@ -1,0 +1,6 @@
+{
+  "name": "효도 두뇌 화투 틀린그림찾기",
+  "description": "어르신과 치매 예방을 위한 친근하고 보기 쉬운 화투패 틀린그림찾기 두뇌 건강 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
